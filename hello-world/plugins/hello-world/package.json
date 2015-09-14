@@ -10,7 +10,8 @@
   "plugin": {
     "consumes": [
       "logger",
-      "waveletApp"
+      "waveletApp",
+      "red"
     ],
     "provides": []
   }
